@@ -79,7 +79,7 @@
                     <HorizontalStackLayout Spacing="10" HorizontalOptions="Center">
                         <Button Text="Render" Clicked="OnRenderClicked" BackgroundColor="MediumSlateBlue" />
                         <!-- <Button Text="Reset" Clicked="OnResetClicked" BackgroundColor="DimGray" /> -->
-                        <Button Text="Download" Clicked="OnDownloadClicked" BackgroundColor="LightSeaGreen" />
+                        <Button Text="Download" Clicked="OnDownloadClicked" BackgroundColor="MediumPurple" />
                     </HorizontalStackLayout>
                 </VerticalStackLayout>
             </Border>
